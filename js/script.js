@@ -53,4 +53,5 @@ add();*/
     console.log("3" + "*" + i + "=" + result);
 }*/
 
-var name = "punnu";
+var name = "punarvi shreshti";
+var string = "punnu"
