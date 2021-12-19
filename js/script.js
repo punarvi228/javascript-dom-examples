@@ -52,3 +52,5 @@ add();*/
     var result = i * 3;
     console.log("3" + "*" + i + "=" + result);
 }*/
+
+var name = "punnu";
